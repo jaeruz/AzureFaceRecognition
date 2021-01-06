@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246833965727",
+    "firebase_url": "https://frtemp-be50f.firebaseio.com",
+    "project_id": "frtemp-be50f",
+    "storage_bucket": "frtemp-be50f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246833965727:android:e19497ab84240f158150aa",
+        "android_client_info": {
+          "package_name": "com.example.mthird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246833965727-js2tnjdrl9m3oieq8a7rnjuu2172i3c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mthird",
+            "certificate_hash": "62f4b046de26599ceb065c2681992bf9dcc7730a"
+          }
+        },
+        {
+          "client_id": "246833965727-e0c5lh9is2ev1g0eqjg5amj23nj6p412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlVmWg0RFNH7G-VpxfU_JFqeWmQwH-vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246833965727-e0c5lh9is2ev1g0eqjg5amj23nj6p412.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
